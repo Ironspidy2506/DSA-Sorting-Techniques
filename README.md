@@ -30,3 +30,9 @@
 - **Best Time Complexity**: O(n²) ❌
 - **Average Time Complexity**: O(n²) ⚖️
 - **Worst Time Complexity**: O(n²) ❌
+
+## 6. 🧮 Counting Sort
+- **Description**: Counting Sort works by counting the occurrences of each unique element in the input array and using this information to place the elements in their correct position in the sorted array.
+- **Best Time Complexity**: O(n + k) 🌟 (where n is the number of elements and k is the range of the input)
+- **Average Time Complexity**: O(n + k) ⚖️
+- **Worst Time Complexity**: O(n + k) ❌
